@@ -1,16 +1,16 @@
-# input_project
+# Flutter Input Validation App
 
-A new Flutter project.
+A simple Flutter app with three screens that validates user input fields like Name, Email, and Address.
 
-## Getting Started
+## Features
+- Three screens (Home, Form, and Confirmation)
+- Input validation with error messages
+- Reusable custom text field widget
+- Organized folder structure
 
-This project is a starting point for a Flutter application.
+## How to Run
+1. Clone the repo: git clone https://github.com/Belinda1704/flutter_input_validation.git 
+2. cd flutter_input_validation
+3. flutter run
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
